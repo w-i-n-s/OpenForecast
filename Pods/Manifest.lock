@@ -1,0 +1,17 @@
+PODS:
+  - SDWebImage (3.8.1):
+    - SDWebImage/Core (= 3.8.1)
+  - SDWebImage/Core (3.8.1)
+  - THCache (0.9.1)
+
+DEPENDENCIES:
+  - SDWebImage (~> 3.8)
+  - THCache (~> 0.9.1)
+
+SPEC CHECKSUMS:
+  SDWebImage: 35f9627a3e44b4f292a8a8ce6a531fa488239b91
+  THCache: 7e23f78df992f8f3021fbb10b80f8371082e7276
+
+PODFILE CHECKSUM: 06e242667f9b27f1f62c6e2cda264126e69142a3
+
+COCOAPODS: 1.0.1
